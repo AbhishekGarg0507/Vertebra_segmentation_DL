@@ -1,0 +1,21 @@
+# dataset
+dataset/
+
+# python cache
+__pycache__/
+*.pyc
+
+# jupyter checkpoints
+.ipynb_checkpoints/
+
+# mac system file
+.DS_Store
+results/.DS_Store
+
+# model 
+results/best_model.pth  
+
+# reports
+Q1101361_Abhishekgarg.docx
+Q1101361_Abhishekgarg.pdf
+Q1101361_Abhishekgarg.doc
