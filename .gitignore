@@ -19,3 +19,6 @@ best_model.pth
 Visualizations/Q1101361_Abhishekgarg.docx
 Visualizations/Q1101361_Abhishekgarg.pdf
 Visualizations/Q1101361_Abhishekgarg.doc
+
+# gradio
+.gradio/
